@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=Daniel-israelov)
+![](https://komarev.com/ghpvc/?username=OmerGez9001)
 # Hi there, I'm Omer Gez! 👋
 ### 26 years old, 3rd year Computer Science student from Yehud-Monosson, Israel.
-### C/C++ = ♥
+
 ---
 
 
