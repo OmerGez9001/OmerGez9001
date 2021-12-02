@@ -31,7 +31,6 @@
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
-    <img height="32" width="32" src="https://yt3.ggpht.com/ytc/AKedOLTl7gjxYJWbK4mxnmJ62Kr0UIR7Q2SCiSqCBnAs=s176-c-k-c0x00ffffff-no-rj"/>
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerGez9001&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/OmerGez9001/github-readme-stats)
