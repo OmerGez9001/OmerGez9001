@@ -10,14 +10,12 @@
   - DevOps
   - Machine Learning.
   - Date Science.
-- 👁 My main focus:
-  - C/C++ 
 - 📫 How to reach me:  
   
      [<img align="left" alt="Omer-Gez | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/omer-gez-004b931b0/) 
 [<img align="left" alt="Omer-Gez | Facebook" width="25px" src="https://i.imgur.com/nIiaG46.png" />](https://www.facebook.com/omer.gez.7777)
 [<img align="left" alt="Omer-Gez | Gmail" width="25px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:omergez72@gmail.com)
-[<img align="left" alt="Omer-Gez | Whatsapp" width="25px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972544430388)  .
+[<img align="left" alt="Omer-Gez | Whatsapp" width="25px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972544430388)  
 - 💻 Languages & Tools:  
 
     <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
