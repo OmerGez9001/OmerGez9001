@@ -1,15 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=OmerGez9001)
 # Hi there, I'm Omer Gez! 👋
-### 26 years old, 3rd year Computer Science student from Yehud-Monosson, Israel.
+### 27 years old, Computer Science graduate and Software Developer from Rishon-Lezion, Israel.
 
 ---
 
 
-- 🔭 I’m currently working on my B.Sc degree in Computer Science, at HIT (Holon Institute of Technology).
-- 🌱 I’m currently learning:  
-  - DevOps
-  - Machine Learning.
-  - Date Science.
+- 🔭 I’m currently working as a PS Engineer, developing in C++ and Go programming languages.
+- 🌱 I’m constantly studying and learning to further sharpen my skills as a developer.  
 - 📫 How to reach me:  
   
      [<img align="left" alt="Omer-Gez | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/omer-gez-004b931b0/) 
