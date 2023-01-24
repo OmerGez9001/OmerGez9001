@@ -20,7 +20,6 @@
     <img heigth="32" width="32" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
