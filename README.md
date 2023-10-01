@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=OmerGez9001)
 # Hi there, I'm Omer Gez! 👋
-### 27 years old, Computer Science graduate and Software Developer from Rishon-Lezion, Israel.
+### 27 years old, Computer Science graduate and Software Engineer.
 
 ---
 
 
-- 🔭 I’m currently working as a PS Engineer, developing in C++ and Go programming languages.
+- 🔭 I’m currently working as a Software Engineer, developing in C++ and Go programming languages.
 - 🌱 I’m constantly studying and learning to further sharpen my skills as a developer.  
 - 📫 How to reach me:  
   
