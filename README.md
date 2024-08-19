@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=OmerGez9001)
 # Hi there, I'm Omer Gez! 👋
-### 28 years old, Computer Science graduate and Software Engineer.
+### 29 years old, Computer Science graduate and Software Engineer.
 
 ---
 
